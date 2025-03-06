@@ -49,5 +49,4 @@ streamlit run streamlit_churn_app.py
 - Ensure `churn_model.h5` and `scaler.pkl` are available before running the app.
 
 ## Author
-This application was built for churn prediction using deep learning with Streamlit.
-
+Abhishek Shrimali

@@ -8,8 +8,8 @@ This Streamlit-based web application predicts customer churn using a trained Art
 - Standardizes inputs using a pre-fitted scaler before making predictions.
 
 ## Preview
-![Uploading pawelzmarlak-2025-03-06T07_00_22.151Z.png…]()
-
+ 
+![Screenshot2025-03-06T07_00_22 151Z](https://github.com/user-attachments/assets/c2d12aa7-475e-4b60-bf11-1a4ea4e8d233)
 
 
 

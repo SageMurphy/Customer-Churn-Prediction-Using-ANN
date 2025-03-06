@@ -7,6 +7,12 @@ This Streamlit-based web application predicts customer churn using a trained Art
 - Uses a pre-trained deep learning model to predict churn.
 - Standardizes inputs using a pre-fitted scaler before making predictions.
 
+## Preview
+![image](https://github.com/user-attachments/assets/f3442bd1-d39e-4693-adf2-f8dbba167f35)
+![image](https://github.com/user-attachments/assets/b774e980-6786-44d3-8e3f-69bede05d8e1)
+
+
+
 ## Requirements
 Ensure you have the following installed:
 

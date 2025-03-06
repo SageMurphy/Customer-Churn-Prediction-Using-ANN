@@ -14,6 +14,8 @@ model = load_model()
 # load the saved scaler 
 scaler = joblib.load("Scaler/scaler.pkl")
 st.title("Customer Churn Prediciton")
+st.markdown("<h6 style='text-align: right; color: gray;'>Developed by Abhishek</h6>", unsafe_allow_html=True)
+
 st.write("Enter customer details to predict churn")
 
 # creating input fields

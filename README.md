@@ -1,4 +1,4 @@
-# Customer Churn Prediction - Streamlit App
+# Customer Churn Prediction Using ANN - Streamlit App
 
 This Streamlit-based web application predicts customer churn using a trained Artificial Neural Network (ANN) model.
 
